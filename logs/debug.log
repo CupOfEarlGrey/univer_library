@@ -1,0 +1,11 @@
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3160
+"GET /search_result/?user_search=Daniel+Defoe HTTP/1.1" 200 4338
+"GET /book_page/2 HTTP/1.1" 200 3422
+"GET /book_page/3 HTTP/1.1" 200 3424
+"GET /book_page_update/3 HTTP/1.1" 200 2961
+"GET /admin/ HTTP/1.1" 200 7169
+"GET /admin/library_main/book/add/ HTTP/1.1" 200 7509
+"GET /admin/jsi18n/ HTTP/1.1" 200 3187
+"POST /admin/library_main/book/add/ HTTP/1.1" 200 7851
+"GET /admin/jsi18n/ HTTP/1.1" 200 3187

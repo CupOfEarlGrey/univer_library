@@ -1,12 +1,16 @@
 from django.db.models import Q
-from django.shortcuts import render, redirect
+from django.shortcuts import render
 from .models import *
+import logging
 
 
 # Create your views here.
+logger = logging.getLogger(__name__)
+logger.info('something')
+
+
 def main_page_view(request):
     return render(request, 'index.html', context={})
-
 
 def search_result(request):
     user_search = request.GET.get('user_search')
