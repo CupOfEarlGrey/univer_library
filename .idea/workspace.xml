@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f5c9f52-4e03-4e2e-bbc0-833f65f0e916" name="Default Changelist" comment="Lab_1 commit">
-      <change afterPath="$PROJECT_DIR$/logs/debug.log" afterDir="false" />
+    <list default="true" id="7f5c9f52-4e03-4e2e-bbc0-833f65f0e916" name="Default Changelist" comment="Lab_2 commit">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library_main/locale/ru/LC_MESSAGES/django.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library_main/locale/ru/LC_MESSAGES/django.po" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_main/templates/book_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/library_main/templates/book_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_main/templates/reserve_done.html" beforeDir="false" afterPath="$PROJECT_DIR$/library_main/templates/reserve_done.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_main/templates/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/library_main/templates/search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_main/templates/search_result.html" beforeDir="false" afterPath="$PROJECT_DIR$/library_main/templates/search_result.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/library_main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/library_main/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/univercity_software_design/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/univercity_software_design/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/univercity_software_design/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/univercity_software_design/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +63,26 @@
     </key>
   </component>
   <component name="RunManager" selected="Django Server.univercity_software_design">
+    <configuration name="Test: library_main" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="univercity_software_design" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="library_main" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Test: media.images" type="DjangoTestsConfigurationType">
       <module name="univercity_software_design" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -98,6 +127,11 @@
       <option name="customRunCommand" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Django tests.Test: library_main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -130,7 +164,18 @@
       <workItem from="1615854490162" duration="1574000" />
       <workItem from="1615910832492" duration="27000" />
       <workItem from="1615916762697" duration="1043000" />
-      <workItem from="1615918566066" duration="332000" />
+      <workItem from="1615918566066" duration="1284000" />
+      <workItem from="1615923392308" duration="607000" />
+      <workItem from="1615926988955" duration="1495000" />
+      <workItem from="1615930728766" duration="1806000" />
+      <workItem from="1615932802315" duration="162000" />
+      <workItem from="1615933380792" duration="276000" />
+      <workItem from="1615933718334" duration="2047000" />
+      <workItem from="1615937832133" duration="1153000" />
+      <workItem from="1615939000758" duration="615000" />
+      <workItem from="1615988847360" duration="1771000" />
+      <workItem from="1615990636186" duration="1789000" />
+      <workItem from="1615992446345" duration="1514000" />
     </task>
     <task id="LOCAL-00001" summary="Lab_1 commit">
       <created>1615832719246</created>
@@ -146,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615832817183</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lab_2 commit">
+      <created>1615919114340</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615919114340</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,9 +219,11 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Lab_1 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab_1 commit" />
+    <MESSAGE value="Lab_2 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab_2 commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/univercity_software_design$Test__library_main.coverage" NAME="Test: library_main Coverage Results" MODIFIED="1615930764488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/univercity_software_design$Test__media_images.coverage" NAME="Test: media.images Coverage Results" MODIFIED="1615822686553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>

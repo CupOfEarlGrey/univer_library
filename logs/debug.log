@@ -9,3 +9,385 @@ Watching for file changes with StatReloader
 "GET /admin/jsi18n/ HTTP/1.1" 200 3187
 "POST /admin/library_main/book/add/ HTTP/1.1" 200 7851
 "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3161
+"GET /favicon.ico HTTP/1.1" 404 2995
+C:\Django\univercity_software_design\library_main\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3159
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3179
+"GET /search_result/?user_search=Daniel+Defoe HTTP/1.1" 200 4002
+"GET /media/images/d4ff8dff-9c52-4324-8dc0-8c45024f8228.jpg HTTP/1.1" 304 0
+"GET /media/images/12869ab2-83ae-43fe-aeef-406ea6ae19d3.jpg HTTP/1.1" 304 0
+"GET /search_result/?user_search=Daniel+Defoe HTTP/1.1" 200 4002
+"GET /book_page/2 HTTP/1.1" 200 3455
+"GET /book_page_update/2 HTTP/1.1" 200 3033
+"GET /book_page_update/2 HTTP/1.1" 200 3033
+"GET /static/fonts/font-awesome/css/font-awesome.css HTTP/1.1" 200 28747
+"GET /static/css/style.css HTTP/1.1" 200 8181
+"GET /static/css/bootstrap.css HTTP/1.1" 200 148172
+"GET /static/img/books.jpg HTTP/1.1" 200 42182
+"GET /static/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.3.0 HTTP/1.1" 200 56780
+"GET /static/js/main.js HTTP/1.1" 200 1262
+"GET /static/js/SmoothScroll.js HTTP/1.1" 200 13795
+"GET /static/js/jqBootstrapValidation.js HTTP/1.1" 200 36171
+"GET /static/js/bootstrap.js HTTP/1.1" 200 67546
+"GET /static/js/jquery.1.11.1.js HTTP/1.1" 200 95785
+"GET /favicon.ico HTTP/1.1" 404 2995
+"GET / HTTP/1.1" 200 3179
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3179
+"GET /static/js/SmoothScroll.js HTTP/1.1" 200 13795
+"GET /static/css/style.css HTTP/1.1" 200 8181
+"GET /static/fonts/font-awesome/css/font-awesome.css HTTP/1.1" 200 28747
+"GET /static/js/jqBootstrapValidation.js HTTP/1.1" 200 36171
+"GET /static/js/jquery.1.11.1.js HTTP/1.1" 200 95785
+"GET /static/js/bootstrap.js HTTP/1.1" 200 67546
+"GET /static/js/main.js HTTP/1.1" 200 1262
+"GET /static/css/bootstrap.css HTTP/1.1" 200 148172
+"GET /static/img/books.jpg HTTP/1.1" 200 42182
+"GET /static/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.3.0 HTTP/1.1" 200 56780
+"GET /favicon.ico HTTP/1.1" 404 2995
+"GET / HTTP/1.1" 200 3179
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3179
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3179
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3179
+"GET /static/js/SmoothScroll.js HTTP/1.1" 200 13795
+"GET /static/css/style.css HTTP/1.1" 200 8181
+"GET /static/fonts/font-awesome/css/font-awesome.css HTTP/1.1" 200 28747
+"GET /static/js/jqBootstrapValidation.js HTTP/1.1" 200 36171
+"GET /static/js/bootstrap.js HTTP/1.1" 200 67546
+"GET /static/css/bootstrap.css HTTP/1.1" 200 148172
+"GET /static/js/main.js HTTP/1.1" 200 1262
+"GET /static/js/jquery.1.11.1.js HTTP/1.1" 200 95785
+"GET /static/img/books.jpg HTTP/1.1" 200 42182
+"GET /static/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.3.0 HTTP/1.1" 200 56780
+"GET /favicon.ico HTTP/1.1" 404 2995
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3179
+"GET / HTTP/1.1" 200 3179
+"GET /static/css/style.css HTTP/1.1" 200 8181
+"GET /static/fonts/font-awesome/css/font-awesome.css HTTP/1.1" 200 28747
+"GET /static/js/bootstrap.js HTTP/1.1" 200 67546
+"GET /static/js/SmoothScroll.js HTTP/1.1" 200 13795
+"GET /static/js/jqBootstrapValidation.js HTTP/1.1" 200 36171
+"GET /static/js/main.js HTTP/1.1" 200 1262
+"GET /static/css/bootstrap.css HTTP/1.1" 200 148172
+"GET /static/js/jquery.1.11.1.js HTTP/1.1" 200 95785
+"GET /static/img/books.jpg HTTP/1.1" 200 42182
+"GET /static/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.3.0 HTTP/1.1" 200 56780
+"GET /favicon.ico HTTP/1.1" 404 2995
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3179
+"GET /static/css/style.css HTTP/1.1" 304 0
+"GET /static/img/books.jpg HTTP/1.1" 304 0
+"GET /favicon.ico HTTP/1.1" 404 2995
+"GET / HTTP/1.1" 200 3179
+"GET /static/css/bootstrap.css HTTP/1.1" 200 148172
+"GET /static/css/style.css HTTP/1.1" 200 8181
+"GET /static/fonts/font-awesome/css/font-awesome.css HTTP/1.1" 200 28747
+"GET /static/js/SmoothScroll.js HTTP/1.1" 200 13795
+"GET /static/js/main.js HTTP/1.1" 200 1262
+"GET /static/js/jqBootstrapValidation.js HTTP/1.1" 200 36171
+"GET /static/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.3.0 HTTP/1.1" 200 56780
+"GET /static/img/books.jpg HTTP/1.1" 200 42182
+"GET /static/js/bootstrap.js HTTP/1.1" 200 67546
+"GET /static/js/jquery.1.11.1.js HTTP/1.1" 200 95785
+"GET /favicon.ico HTTP/1.1" 404 2995
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3179
+"GET / HTTP/1.1" 200 3179
+"GET /static/js/SmoothScroll.js HTTP/1.1" 200 13795
+"GET /static/fonts/font-awesome/css/font-awesome.css HTTP/1.1" 200 28747
+"GET /static/js/bootstrap.js HTTP/1.1" 200 67546
+"GET /static/js/jquery.1.11.1.js HTTP/1.1" 200 95785
+"GET /static/js/main.js HTTP/1.1" 200 1262
+"GET /static/css/bootstrap.css HTTP/1.1" 200 148172
+"GET /static/css/style.css HTTP/1.1" 200 8181
+"GET /static/js/jqBootstrapValidation.js HTTP/1.1" 200 36171
+"GET /static/img/books.jpg HTTP/1.1" 200 42182
+"GET /static/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.3.0 HTTP/1.1" 200 56780
+"GET /favicon.ico HTTP/1.1" 404 2995
+"GET /static/css/bootstrap.css.map HTTP/1.1" 404 1803
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3179
+"GET /static/js/SmoothScroll.js HTTP/1.1" 200 13795
+"GET /static/fonts/font-awesome/css/font-awesome.css HTTP/1.1" 200 28747
+"GET /static/js/bootstrap.js HTTP/1.1" 200 67546
+"GET /static/css/style.css HTTP/1.1" 200 8181
+"GET /static/js/jqBootstrapValidation.js HTTP/1.1" 200 36171
+"GET /static/css/bootstrap.css HTTP/1.1" 200 148172
+"GET /static/js/main.js HTTP/1.1" 200 1262
+"GET /static/js/jquery.1.11.1.js HTTP/1.1" 200 95785
+"GET /static/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.3.0 HTTP/1.1" 200 56780
+"GET /static/img/books.jpg HTTP/1.1" 200 42182
+"GET /static/css/bootstrap.css.map HTTP/1.1" 404 1803
+"GET /favicon.ico HTTP/1.1" 404 2995
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3179
+"GET /static/js/bootstrap.js HTTP/1.1" 200 67546
+"GET /static/js/jquery.1.11.1.js HTTP/1.1" 200 95785
+"GET /static/css/bootstrap.css HTTP/1.1" 200 148172
+"GET /static/js/main.js HTTP/1.1" 200 1262
+"GET /static/js/jqBootstrapValidation.js HTTP/1.1" 200 36171
+"GET /static/fonts/font-awesome/css/font-awesome.css HTTP/1.1" 200 28747
+"GET /static/css/style.css HTTP/1.1" 200 8181
+"GET /static/js/SmoothScroll.js HTTP/1.1" 200 13795
+"GET /static/img/books.jpg HTTP/1.1" 200 42182
+"GET /static/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.3.0 HTTP/1.1" 200 56780
+"GET /static/css/bootstrap.css.map HTTP/1.1" 404 1803
+"GET /favicon.ico HTTP/1.1" 404 2995
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3203
+"GET /static/js/SmoothScroll.js HTTP/1.1" 200 13795
+"GET /static/fonts/font-awesome/css/font-awesome.css HTTP/1.1" 200 28747
+"GET /static/js/jquery.1.11.1.js HTTP/1.1" 200 95785
+"GET /static/js/jqBootstrapValidation.js HTTP/1.1" 200 36171
+"GET /static/css/style.css HTTP/1.1" 200 8181
+"GET /static/css/bootstrap.css HTTP/1.1" 200 148172
+"GET /static/js/main.js HTTP/1.1" 200 1262
+"GET /static/js/bootstrap.js HTTP/1.1" 200 67546
+"GET /static/img/books.jpg HTTP/1.1" 200 42182
+"GET /static/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.3.0 HTTP/1.1" 200 56780
+"GET /static/css/bootstrap.css.map HTTP/1.1" 404 1803
+"GET /favicon.ico HTTP/1.1" 404 2995
+"GET / HTTP/1.1" 200 3203
+"GET /static/css/style.css HTTP/1.1" 200 8181
+"GET /static/fonts/font-awesome/css/font-awesome.css HTTP/1.1" 200 28747
+"GET /static/js/SmoothScroll.js HTTP/1.1" 200 13795
+"GET /static/js/bootstrap.js HTTP/1.1" 200 67546
+"GET /static/js/jqBootstrapValidation.js HTTP/1.1" 200 36171
+"GET /static/js/main.js HTTP/1.1" 200 1262
+"GET /static/js/jquery.1.11.1.js HTTP/1.1" 200 95785
+"GET /static/css/bootstrap.css HTTP/1.1" 200 148172
+"GET /static/img/books.jpg HTTP/1.1" 200 42182
+"GET /static/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.3.0 HTTP/1.1" 200 56780
+"GET /favicon.ico HTTP/1.1" 404 2995
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3203
+"GET /static/css/style.css HTTP/1.1" 200 8181
+"GET /static/fonts/font-awesome/css/font-awesome.css HTTP/1.1" 200 28747
+"GET /static/js/jquery.1.11.1.js HTTP/1.1" 200 95785
+"GET /static/js/SmoothScroll.js HTTP/1.1" 200 13795
+"GET /static/css/bootstrap.css HTTP/1.1" 200 148172
+"GET /static/js/main.js HTTP/1.1" 200 1262
+"GET /static/js/jqBootstrapValidation.js HTTP/1.1" 200 36171
+"GET /static/js/bootstrap.js HTTP/1.1" 200 67546
+"GET /static/img/books.jpg HTTP/1.1" 200 42182
+"GET /static/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.3.0 HTTP/1.1" 200 56780
+"GET /favicon.ico HTTP/1.1" 404 2995
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3203
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3190
+"GET /static/fonts/font-awesome/css/font-awesome.css HTTP/1.1" 200 28747
+"GET /static/js/SmoothScroll.js HTTP/1.1" 200 13795
+"GET /static/js/bootstrap.js HTTP/1.1" 200 67546
+"GET /static/js/jqBootstrapValidation.js HTTP/1.1" 200 36171
+"GET /static/js/jquery.1.11.1.js HTTP/1.1" 200 95785
+"GET /static/js/main.js HTTP/1.1" 200 1262
+"GET /static/css/bootstrap.css HTTP/1.1" 200 148172
+"GET /static/css/style.css HTTP/1.1" 200 8181
+"GET /static/img/books.jpg HTTP/1.1" 200 42182
+"GET /static/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.3.0 HTTP/1.1" 200 56780
+"GET /favicon.ico HTTP/1.1" 404 2995
+"GET / HTTP/1.1" 200 3190
+"GET /static/css/style.css HTTP/1.1" 200 8181
+"GET /static/fonts/font-awesome/css/font-awesome.css HTTP/1.1" 200 28747
+"GET /static/js/SmoothScroll.js HTTP/1.1" 200 13795
+"GET /static/js/bootstrap.js HTTP/1.1" 200 67546
+"GET /static/js/jquery.1.11.1.js HTTP/1.1" 200 95785
+"GET /static/css/bootstrap.css HTTP/1.1" 200 148172
+"GET /static/js/main.js HTTP/1.1" 200 1262
+"GET /static/js/jqBootstrapValidation.js HTTP/1.1" 200 36171
+"GET /static/img/books.jpg HTTP/1.1" 200 42182
+"GET /static/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.3.0 HTTP/1.1" 200 56780
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3190
+"GET /static/js/SmoothScroll.js HTTP/1.1" 200 13795
+"GET /static/fonts/font-awesome/css/font-awesome.css HTTP/1.1" 200 28747
+"GET /static/css/style.css HTTP/1.1" 200 8181
+"GET /static/js/main.js HTTP/1.1" 200 1262
+"GET /static/js/jqBootstrapValidation.js HTTP/1.1" 200 36171
+"GET /static/js/bootstrap.js HTTP/1.1" 200 67546
+"GET /static/css/bootstrap.css HTTP/1.1" 200 148172
+"GET /static/js/jquery.1.11.1.js HTTP/1.1" 200 95785
+"GET /static/img/books.jpg HTTP/1.1" 200 42182
+"GET /static/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.3.0 HTTP/1.1" 200 56780
+"GET /favicon.ico HTTP/1.1" 404 2995
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 2
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 12
+"GET /favicon.ico HTTP/1.1" 404 2995
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 12
+"GET /favicon.ico HTTP/1.1" 404 2995
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 12
+"GET /favicon.ico HTTP/1.1" 404 2995
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 2
+"GET /favicon.ico HTTP/1.1" 404 2995
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 2
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 12
+"GET /favicon.ico HTTP/1.1" 404 2995
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 12
+"GET / HTTP/1.1" 200 12
+"GET /favicon.ico HTTP/1.1" 404 2995
+"GET / HTTP/1.1" 200 12
+C:\Django\univercity_software_design\univercity_software_design\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Django\univercity_software_design\univercity_software_design\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Django\univercity_software_design\univercity_software_design\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 2
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 12
+"GET /favicon.ico HTTP/1.1" 404 2995
+C:\Django\univercity_software_design\library_main\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3183
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3204
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3183
+"GET /static/css/style.css HTTP/1.1" 200 8181
+"GET /static/fonts/font-awesome/css/font-awesome.css HTTP/1.1" 200 28747
+"GET /static/js/bootstrap.js HTTP/1.1" 200 67546
+"GET /static/js/main.js HTTP/1.1" 200 1262
+"GET /static/js/jqBootstrapValidation.js HTTP/1.1" 200 36171
+"GET /static/js/jquery.1.11.1.js HTTP/1.1" 200 95785
+"GET /static/css/bootstrap.css HTTP/1.1" 200 148172
+"GET /static/js/SmoothScroll.js HTTP/1.1" 200 13795
+"GET /static/img/books.jpg HTTP/1.1" 200 42182
+"GET /static/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.3.0 HTTP/1.1" 200 56780
+"GET /favicon.ico HTTP/1.1" 404 2995
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 18281
+"GET /uk/ HTTP/1.1" 404 2971
+"GET /ru/ HTTP/1.1" 404 2971
+C:\Django\univercity_software_design\univercity_software_design\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3654
+"GET /static/css/style.css HTTP/1.1" 200 8181
+"GET /static/js/bootstrap.js HTTP/1.1" 200 67546
+"GET /static/js/main.js HTTP/1.1" 200 1262
+"GET /static/css/bootstrap.css HTTP/1.1" 200 148172
+"GET /static/fonts/font-awesome/css/font-awesome.css HTTP/1.1" 200 28747
+"GET /static/js/jqBootstrapValidation.js HTTP/1.1" 200 36171
+"GET /static/js/SmoothScroll.js HTTP/1.1" 200 13795
+"GET /static/js/jquery.1.11.1.js HTTP/1.1" 200 95785
+"GET /static/img/books.jpg HTTP/1.1" 200 42182
+"GET /static/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.3.0 HTTP/1.1" 200 56780
+"GET /favicon.ico HTTP/1.1" 404 2995
+"GET /ru/ HTTP/1.1" 404 2971
+"GET /en/ HTTP/1.1" 404 2971
+C:\Django\univercity_software_design\univercity_software_design\urls.py changed, reloading.
+C:\Django\univercity_software_design\univercity_software_design\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Django\univercity_software_design\univercity_software_design\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Django\univercity_software_design\univercity_software_design\settings.py changed, reloading.
+C:\Django\univercity_software_design\univercity_software_design\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 302 0
+"GET /ru/ HTTP/1.1" 200 3695
+"GET /en/ HTTP/1.1" 200 3674
+"GET /en/search_result/?user_search=Daniel+Defoe HTTP/1.1" 200 4115
+"GET /media/images/12869ab2-83ae-43fe-aeef-406ea6ae19d3.jpg HTTP/1.1" 304 0
+"GET /ru/ HTTP/1.1" 200 3695
+"GET /ru/search_result/?user_search=Daniel+Defoe HTTP/1.1" 200 4133
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 302 0
+"GET /ru/ HTTP/1.1" 200 3695
+"GET /ru/ HTTP/1.1" 200 3695
+"GET /en/ HTTP/1.1" 200 3674
+"GET /admin/ HTTP/1.1" 302 0
+"GET /ru/admin/ HTTP/1.1" 200 7562
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+"GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+"GET /ru/admin/library_main/book/ HTTP/1.1" 200 7062
+"GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+"GET /ru/admin/jsi18n/ HTTP/1.1" 200 14892
+"GET /static/admin/js/core.js HTTP/1.1" 304 0
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+"GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+"GET /static/admin/js/actions.js HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+"GET /ru/admin/library_main/book/4/change/ HTTP/1.1" 200 8438
+"GET /static/admin/css/forms.css HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+"GET /ru/admin/jsi18n/ HTTP/1.1" 200 14892
+"GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+"GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+"GET /ru/admin/library_main/book/ HTTP/1.1" 200 7062
+"GET /ru/admin/library_main/book/3/change/ HTTP/1.1" 200 8422
+"GET /ru/admin/jsi18n/ HTTP/1.1" 200 14892
+"POST /ru/admin/library_main/book/3/change/ HTTP/1.1" 302 0
+"GET /ru/admin/library_main/book/ HTTP/1.1" 200 7300
+"GET /ru/admin/jsi18n/ HTTP/1.1" 200 14892
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+"GET /ru/admin/library_main/book/3/change/ HTTP/1.1" 200 8430
+"GET /ru/admin/library_main/book/ HTTP/1.1" 200 7062
+"GET /ru/admin/jsi18n/ HTTP/1.1" 200 14892
+"GET /ru/admin/library_main/book/2/change/ HTTP/1.1" 200 8418
+"GET /ru/admin/jsi18n/ HTTP/1.1" 200 14892
+"POST /ru/admin/library_main/book/2/change/ HTTP/1.1" 302 0
+"GET /ru/admin/library_main/book/ HTTP/1.1" 200 7298
+"GET /ru/admin/jsi18n/ HTTP/1.1" 200 14892
+"GET /ru/admin/library_main/book/add/ HTTP/1.1" 200 7934
+"GET /ru/admin/jsi18n/ HTTP/1.1" 200 14892
+Watching for file changes with StatReloader
+"POST /ru/admin/library_main/book/add/ HTTP/1.1" 302 0
+"GET /ru/admin/library_main/book/ HTTP/1.1" 200 7522
+"GET /ru/admin/jsi18n/ HTTP/1.1" 200 14892
+"GET /ru/ HTTP/1.1" 200 3695
+"GET /ru/search_result/?user_search=%D0%A1%D1%82%D0%B8%D0%B2%D0%B5%D0%BD HTTP/1.1" 200 3770
+"GET /ru/search_result/?user_search=steven HTTP/1.1" 200 3770
+"GET /ru/search_result/?user_search=king HTTP/1.1" 200 4122
+"GET /media/images/edd126d8-f6b0-4808-80aa-4e26dc2533be.jpg HTTP/1.1" 200 100924
+"GET /en/ HTTP/1.1" 200 3674
+"GET /register/ HTTP/1.1" 404 2236
+"GET /ru HTTP/1.1" 301 0
+"GET /ru/ HTTP/1.1" 200 3695

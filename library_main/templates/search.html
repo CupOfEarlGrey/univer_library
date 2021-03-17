@@ -1,13 +1,15 @@
 <!-- Search Section -->
+{% load i18n %}
+<html lang="en"></html>
 <div id="contact" class="text-center">
       <div class="container">
         <div class="section-title text-center">
-          <h3>Search your book</h3>
+          <h3>{% trans "Search your book" %}</h3>
         </div>
         <div class="col-md-8 col-md-offset-2">
             <div class="form-group">
                 <form action="{% url 'search_result' %}" method="get">
-                    <input name="user_search" type="text" placeholder="Search...">
+                    <input name="user_search" type="text" placeholder={% trans "Search..." %}>
                 </form>
             </div>
         </div>

@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 
 {% block content %}
-
+    {% load i18n %}
     <div class="container">
         <div id="row">
             <div class="col-md-6">
@@ -17,7 +17,7 @@
             </div>
             <div class="col-md-6">
                 <a href='{% url "book_page_update" pk=book.pk%}'>
-                    <button type="button" class="btn btn-primary btn-sm">Reserve Book</button>
+                    <button type="button" class="btn btn-primary btn-sm">{% trans 'Reserve Book' %}</button>
                 </a>
             </div>
         </div>

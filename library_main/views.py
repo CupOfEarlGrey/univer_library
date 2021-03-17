@@ -1,16 +1,15 @@
 from django.db.models import Q
+from django.http import HttpResponse
 from django.shortcuts import render
 from .models import *
 import logging
+from django.utils.translation import gettext as _
 
 
 # Create your views here.
-logger = logging.getLogger(__name__)
-logger.info('something')
-
-
 def main_page_view(request):
     return render(request, 'index.html', context={})
+
 
 def search_result(request):
     user_search = request.GET.get('user_search')
