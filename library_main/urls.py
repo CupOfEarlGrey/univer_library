@@ -7,4 +7,3 @@ urlpatterns = [
     path("book_page/<int:pk>", book_page_view, name='book_page_view'),
     path("book_page_update/<int:pk>", book_page_update, name='book_page_update')
 ]
-

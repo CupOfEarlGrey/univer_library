@@ -4,7 +4,7 @@ from django.db import models
 
 
 # Create your models here.
-def get_file_name(self, filename):
+def get_file_name(filename):
     ext = filename.strip().split('.')[-1]
     filename = f"{uuid4()}.{ext}"
     return path.join("images", filename)

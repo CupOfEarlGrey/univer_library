@@ -4,6 +4,7 @@
 //     <input type="text" class="vTimeField">
 'use strict';
 {
+    // noinspection DuplicatedCode,DuplicatedCode
     const DateTimeShortcuts = {
         calendars: [],
         calendarInputs: [],

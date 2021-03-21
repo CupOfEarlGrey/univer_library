@@ -225,6 +225,7 @@ a.active.selector-clearall:focus, a.active.selector-clearall:hover {
     cursor: default;
 }
 
+/*noinspection ALL*/
 .stacked .active.selector-remove {
     background-position: 0 0px;
     cursor: pointer;
@@ -536,6 +537,7 @@ ul.timelist, .timelist li {
 
 /* EDIT INLINE */
 
+/*noinspection ALL*/
 .inline-deletelink {
     float: right;
     text-indent: -9999px;

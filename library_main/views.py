@@ -1,9 +1,6 @@
 from django.db.models import Q
-from django.http import HttpResponse
 from django.shortcuts import render
 from .models import *
-import logging
-from django.utils.translation import gettext as _
 
 
 # Create your views here.

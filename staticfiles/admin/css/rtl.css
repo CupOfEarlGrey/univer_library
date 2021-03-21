@@ -86,7 +86,7 @@ div.breadcrumbs {
 /* SORTABLE TABLES */
 
 table thead th.sorted .sortoptions {
-   float: left;
+    float: left;
 }
 
 thead th.sorted .text {
@@ -105,7 +105,7 @@ thead th.sorted .text {
 
 .change-list .filtered table {
     border-left: none;
-    border-right: 0px none;
+    border-right: 0 none;
 }
 
 #changelist-filter {
@@ -240,7 +240,7 @@ form .form-row p.datetime {
     padding-left: inherit;
     left: 10px;
     right: inherit;
-    float:left;
+    float: left;
 }
 
 .inline-related h3 span.delete label {

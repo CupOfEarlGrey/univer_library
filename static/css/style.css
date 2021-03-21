@@ -63,6 +63,8 @@ a:hover, a:focus {
 ul, ol {
 	list-style: none;
 }
+
+/*noinspection ALL*/
 ul, ol {
 	padding: 0;
 	webkit-padding: 0;
@@ -76,7 +78,8 @@ ul, ol {
 }
 a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:active.focus, .btn.active.focus {
 	outline: none;
-	outline-offset: none;
+    /*noinspection CssInvalidPropertyValue*/
+    outline-offset: none;
 }
 /* Navigation */
 .navbar .navbar-nav {

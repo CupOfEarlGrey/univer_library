@@ -658,7 +658,7 @@ var i,
 	rinputs = /^(?:input|select|textarea|button)$/i,
 	rheader = /^h\d$/i,
 
-	rnative = /^[^{]+\{\s*\[native \w/,
+	rnative = /^[^{]+{\s*\[native \w/,
 
 	// Easily-parseable/retrievable ID or TAG or CLASS selectors
 	rquickExpr = /^(?:#([\w-]+)|(\w+)|\.([\w-]+))$/,
@@ -1377,7 +1377,7 @@ setDocument = Sizzle.setDocument = function( node ) {
 
 			// Support: Firefox <=3.6 - 5 only
 			// Old Firefox doesn't throw on a badly-escaped identifier.
-			el.querySelectorAll( "\\\f" );
+			el.querySelectorAll( "\\f" );
 			rbuggyQSA.push( "[\\r\\n\\f]" );
 		} );
 
@@ -1412,7 +1412,7 @@ setDocument = Sizzle.setDocument = function( node ) {
 
 			// Support: Opera 10 - 11 only
 			// Opera 10-11 does not throw on post-comma invalid pseudos
-			el.querySelectorAll( "*,:x" );
+			el.querySelectorAll( "/*noinspection ALL*/*,:x" );
 			rbuggyQSA.push( ",.*:" );
 		} );
 	}
@@ -2194,6 +2194,7 @@ Expr = Sizzle.selectors = {
 			// options in Safari work properly
 			if ( elem.parentNode ) {
 				// eslint-disable-next-line no-unused-expressions
+				// noinspection BadExpressionStatementJS
 				elem.parentNode.selectedIndex;
 			}
 
@@ -3026,7 +3027,7 @@ function nodeName( elem, name ) {
 
   return elem.nodeName && elem.nodeName.toLowerCase() === name.toLowerCase();
 
-};
+}
 var rsingleTag = ( /^<([a-z][^\/\0>:\x20\t\r\n\f]*)[\x20\t\r\n\f]*\/?>(?:<\/\1>|)$/i );
 
 
@@ -4395,7 +4396,7 @@ var dataUser = new Data();
 //	5. Avoid exposing implementation details on user objects (eg. expando properties)
 //	6. Provide a clear path for implementation upgrade to WeakMap in 2014
 
-var rbrace = /^(?:\{[\w\W]*\}|\[[\w\W]*\])$/,
+var rbrace = /^(?:{[\w\W]*}|\[[\w\W]*])$/,
 	rmultiDash = /[A-Z]/g;
 
 function getData( data ) {
@@ -5970,7 +5971,7 @@ var
 
 	// checked="checked" or checked
 	rchecked = /checked\s*(?:[^=]|=\s*.checked.)/i,
-	rcleanScript = /^\s*<!(?:\[CDATA\[|--)|(?:\]\]|--)>\s*$/g;
+	rcleanScript = /^\s*<!(?:\[CDATA\[|--)|(?:]]|--)>\s*$/g;
 
 // Prefer a tbody over its parent table for containing new rows
 function manipulationTarget( elem, content ) {
@@ -8215,6 +8216,7 @@ if ( !support.optSelected ) {
 
 			var parent = elem.parentNode;
 			if ( parent ) {
+				// noinspection BadExpressionStatementJS
 				parent.selectedIndex;
 
 				if ( parent.parentNode ) {
@@ -8877,7 +8879,7 @@ jQuery.parseXML = function( data ) {
 
 
 var
-	rbracket = /\[\]$/,
+	rbracket = /\[]$/,
 	rCRLF = /\r?\n/g,
 	rsubmitterTypes = /^(?:submit|button|image|reset|file)$/i,
 	rsubmittable = /^(?:input|select|textarea|keygen)/i;

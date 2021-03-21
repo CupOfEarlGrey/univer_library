@@ -264,6 +264,8 @@ th {
     border: 1px solid #ddd !important;
   }
 }
+
+/*noinspection ALL*/
 @font-face {
   font-family: 'Glyphicons Halflings';
 
@@ -6089,8 +6091,10 @@ button.close {
 
     -webkit-backface-visibility: hidden;
             backface-visibility: hidden;
-    -webkit-perspective: 1000;
-            perspective: 1000;
+      /*noinspection CssInvalidPropertyValue*/
+      -webkit-perspective: 1000;
+      /*noinspection CssInvalidPropertyValue*/
+      perspective: 1000;
   }
   .carousel-inner > .item.next,
   .carousel-inner > .item.active.right {
@@ -6356,7 +6360,8 @@ button.close {
   visibility: hidden;
 }
 .text-hide {
-  font: 0/0 a;
+    /*noinspection CssInvalidPropertyValue,CssInvalidPropertyValue,CssInvalidPropertyValue*/
+    font: 0/0 a;
   color: transparent;
   text-shadow: none;
   background-color: transparent;
@@ -6369,7 +6374,8 @@ button.close {
   position: fixed;
 }
 @-ms-viewport {
-  width: device-width;
+    /*noinspection CssInvalidPropertyValue*/
+    width: device-width;
 }
 .visible-xs,
 .visible-sm,

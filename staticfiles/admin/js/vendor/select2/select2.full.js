@@ -118,7 +118,7 @@ var requirejs, require, define;
                     // as an ID it is less than ideal. In larger point
                     // releases, may be better to just kick out an error.
                     if (i === 0 || (i === 1 && name[2] === '..') || name[i - 1] === '..') {
-                        continue;
+
                     } else if (i > 0) {
                         name.splice(i - 1, 2);
                         i -= 2;
@@ -5460,7 +5460,7 @@ S2.define('select2/core',[
       id = Utils.generateChars(4);
     }
 
-    id = id.replace(/(:|\.|\[|\]|,)/g, '');
+    id = id.replace(/([:.\[\],])/g, '');
     id = 'select2-' + id;
 
     return id;

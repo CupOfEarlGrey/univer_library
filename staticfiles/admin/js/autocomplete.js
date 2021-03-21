@@ -30,6 +30,7 @@
         $('.admin-autocomplete').not('[name*=__prefix__]').djangoAdminSelect2();
     });
 
+    // noinspection ThisExpressionReferencesGlobalObjectJS
     $(document).on('formset:added', (function() {
         return function(event, $newFormset) {
             return $newFormset.find('.admin-autocomplete').djangoAdminSelect2();

@@ -57,6 +57,7 @@ select.admin-autocomplete {
     width: 20px;
 }
 
+/*noinspection ALL*/
 .select2-container--admin-autocomplete .select2-selection--single .select2-selection__arrow b {
     border-color: #888 transparent transparent transparent;
     border-style: solid;
